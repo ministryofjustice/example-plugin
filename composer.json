@@ -1,0 +1,6 @@
+{
+    "name": "ministryofjustice/example-plugin",
+    "description": "Example Plugin",
+    "type": "wordpress-plugin",
+    "require": {}
+}
